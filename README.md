@@ -5,7 +5,7 @@ by conversation: word-level transcript, storyboard you approve first, cuts on wo
 karaoke captions (Arabic / Tunisian Derja + English, right-to-left done right), text cards,
 generated sound effects, a ducked music bed, previews with self-check, final render.
 
-- **Setup and install:** [TOOLS.md](TOOLS.md)
+- **Setup and install:** [TOOLS.md](TOOLS.md) (same as PDF: [TOOLS.pdf](TOOLS.pdf))
 - **How the skill works (what Claude follows):** [SKILL.md](SKILL.md)
 - **Credits and licences:** [CREDITS.md](CREDITS.md), [LICENSE](LICENSE) (MIT)
 

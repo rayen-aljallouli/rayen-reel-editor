@@ -9,7 +9,7 @@ own Instagram reels with Claude Code.
   dry-run mode and the API key looked up next to the skill.
 - `scripts/build_cut.py` and `scripts/render.py` follow video-use's pipeline (per-segment extract,
   lossless concat, 30 ms fades, captions last) and use its HDR tone-mapping chain (PQ footage).
-- Browser Use's MIT notice is kept in `LICENSE`.
+- Browser Use's MIT notice is in `LICENSE-video-use`.
 
 **Tajawal font** (`assets/fonts/`), © 2017 Boutros International, SIL Open Font License 1.1
 (`assets/fonts/OFL.txt`).
